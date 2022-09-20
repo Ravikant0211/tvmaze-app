@@ -1,0 +1,9 @@
+.lists {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+}
+
+.message{
+    color: rgb(223, 31, 31);
+    font-size: 1.6rem;
+}
