@@ -17,9 +17,6 @@ const Navbar = () => {
                         <li className={styles['links__link']}>
                             <Link to='/'>HOME</Link>
                         </li>
-                        <li className={styles['links__link']}>
-                            <Link to='/'>ABOUT</Link>
-                        </li>
                     </ul>
                 </nav>
             </div>
